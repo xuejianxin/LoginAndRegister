@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="android-android-25">
+  <library name="json-lib-2.4-jdk15">
     <CLASSES>
-      <root url="jar://D:/SDK/platforms/android-25/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/libs/json-lib-2.4-jdk15.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

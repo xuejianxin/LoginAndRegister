@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="android-android-25">
+  <library name="SocialSDK_QQZone_2">
     <CLASSES>
-      <root url="jar://D:/SDK/platforms/android-25/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/libs/SocialSDK_QQZone_2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

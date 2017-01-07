@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="android-android-25">
+  <library name="umeng_social_sdk">
     <CLASSES>
-      <root url="jar://D:/SDK/platforms/android-25/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/libs/umeng_social_sdk.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
