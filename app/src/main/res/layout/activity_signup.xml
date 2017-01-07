@@ -38,6 +38,7 @@
             android:inputType="phone"
             android:layout_toLeftOf="@+id/btn_send_verifi_code"
             android:maxLength="11">
+
             <requestFocus/>
         </com.example.administrator.loginandregister.views.CleanEditText>
 
@@ -72,18 +73,53 @@
         android:hint="验证码"
         android:inputType="number"/>
 
+    <com.example.administrator.loginandregister.views.CleanEditText
+        android:id="@+id/et_nickname"
+        style="@style/login_edit_style"
+        android:layout_below="@+id/et_password"
+        android:layout_marginTop="10dp"
+        android:maxLength="32"
+        android:singleLine="true"
+        android:hint="昵称"
+        android:inputType="text"/>
+
     <Button
         android:id="@+id/btn_create_account"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/et_nickname"
+        android:layout_centerHorizontal="true"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="30dp"
         android:background="@drawable/btn_login_selector"
         android:onClick="onClick"
-        android:text="@string/reset_pwd"
+        android:text="@string/create_account"
         android:textColor="#5c5c5c"
-        android:textSize="16sp"
-        android:layout_below="@+id/et_password"
-        android:layout_centerHorizontal="true" />
+        android:textSize="16sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/btn_create_account"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点击“创建账号”即同意"/>
+
+        <TextView
+            android:id="@+id/tv_user_rule"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:text="@string/user_rule"
+            android:textColor="#5c5c5c"
+            android:textSize="12sp"/>
+    </LinearLayout>
 
 </RelativeLayout>
