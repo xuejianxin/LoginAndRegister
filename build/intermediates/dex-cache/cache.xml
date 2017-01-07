@@ -1,1 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_8c587aec104f67393c4e6ad883f0e3de11d1b2dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_20757eb7dd0c22516613271869cfe41b81dd3d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\commons-logging-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.2_f939e30c0aa6aa458ac738ae3b5e92d4944c2ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8962f50f03ab83787c2c3035d0c79fe79cb0f67d">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_ddac8ef16d7c67cb95151907c8a95ab9d2146f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4aa8d4cde1e2201e5360daaae4bd9fdbf4194d2a">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_ee804ebc698281f4773ac831491766c850ed6a6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\MobCommons-2016.1012.1447.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="247197e11f7c035dd417c0a15306da9e2f220547">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.1012.1447_bf291a13075be88cbbe6641360ccec9fbf1f3510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_96265ca865a16dc38f9c6b00e05c0673ee4284e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\commons-codec-1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.9_90de285842638fd51e0908bfbc332c1fd5381d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\httpasyncclient-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d237b168f15063ba3971114613cf8929cc2b01bf">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpasyncclient-4.1.2_f86f8cd7402263a445d0a5fc3ed7075fcd903515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="06ebad1a47ec0ee6bcda0a0e100372d0c961d53b">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2ee9c8185f77d00017d2929ef73132c6b20524e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\httpcore-4.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cbbeaf8c9f32c7e3dfe065f31affa935d4b781cc">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.5_bb40eac44f72c1eae72869b189aba71edfef5830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_16f26ed5f7c1830db1fd995e9517d83530f0c181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0d19f1428c23c0dfe0ba679b7381400277d9be73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\MobTools-2016.1012.1447.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1dbc3cd678d140053d9fc9ac01d9fc1db0b75a22">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.1012.1447_799e85ee6891866ae124bd5a06a5f8319ed4c5ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-10.0-b28_1e4165a9ef797e8df534f58afd27e6a3613733cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03e186fabdab66983e2b2aa42a2b2de7cb37dc4a">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_a8a3577bc8215c50d96cba0284d2cba62a211125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f11202cb71112f923a80c75d42e029fc53257e9c">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_0ea93890c426191765a6fdef04ac24e47ccc50a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_95404255967e920bf63f783ab0cc7d57207458e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09ff8d5b16729734311fe2a922418b54c65cd727">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2b768c64cd8f2b844c58068fbd8efffe880b9d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_a0cc9cc92cefa9757d58599c2fdb28caecc49ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\httpasyncclient-cache-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d015a93c2a7a4fadf1acccd8fa5b6c4c487980d4">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpasyncclient-cache-4.1.2_1f81486a2721f0bb1d5c654cf04247bda8f7adc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_47ff8aba5dde4706c855993a8ae15ea3ccbb22a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\json-lib-2.4-jdk15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="136743e0d12df4e785e62b48618cee169b2ae546">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-lib-2.4-jdk15_583d15f90832e33917ad52612e058f8f02f3ade9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\httpcore-nio-4.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3c08bb8025f89a0e2f5109be4d8fcb721cb50fc">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-nio-4.4.5_35782ecf91537497071a386810920e4271ae5894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_1a537b9040e59af4ab5fca9910e7383374d13bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\httpclient-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1310cc1c8f3e8e18b04bb72dc4ab18977709515a">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5.2_c4d355249a0cac024e95e2ca97f6144cb8a2445c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c6b813d4b9b2a1bdc59d337ee48678400fd5684b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_52f29b5b62f9d496bb7befe810e8fa816ad898b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_bd3c3a2cbb0cfe61e1aa7d509cc036233695e4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_4186b42110d2facbeeec577c7db320f8ab872107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_554b097cb11a527d6a60c71ac7649cb5d8d4c5dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta3\97675641051febfee098903cc0eff62f2826e34e\retrofit-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta3_8e0010cbdf71bc6c1e1b728f38628aa3d004feec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_5f1151e3c2e6e7131c366c3b6afa5adb6ae4bcd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_2_96455bad242ea4c3cd0e6a86b798b94aa0371329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_19127610c3ad8141d9380b961531ce146d15bf92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.0-RC1\be7e96331952019f16dc52dce09ab25df29353d7\okhttp-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.0.0-RC1_b9bb4bac69d4a94a289af2351a11118348196ebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SMSSDK-2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e771b37b443378199ab670e072a4469f363533ac">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SMSSDK-2.1.2_094b49880d4d1667a33ca10afe8ea8a93739b3e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_90b505e0711356871f50a2dec5b8ecf605d9b940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1cfd546983820f460b005cb3083348890cd00c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_1_63dc77af7f89eee4981d1e582fdd71ea98447580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_78e9c44849d4e52a47f21fd0c5f7f5646b2a4055\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_cfc857951e0688aa6c1b9db9887ce68902c07282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\LoginAndRegister\app\libs\httpclient-cache-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03c735f80da4a1d2b46a3cd0141cbac568c5fb97">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.5.2_c2c592bf118db5589e5b441870305a07816a8d4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JimCharles\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="D:\LoginAndRegister\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta3_7b81722c0a75490f55de1fbf524b3a8ab4498342\classes.dex" />
+    </item>
+
+</items>
