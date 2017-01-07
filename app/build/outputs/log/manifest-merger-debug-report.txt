@@ -1,1 +1,219 @@
-
+-- Merging decision tree log ---
+manifest
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:3:5-57
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:13:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:19:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:22:22-76
+application
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:24:5-86:19
+MERGED from [com.android.support:design:22.2.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:27:9-41
+	android:supportsRtl
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:28:9-35
+	android:allowBackup
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:26:9-43
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.administrator.loginandregister.splash.SplashActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:32:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.administrator.loginandregister.activity.LoginActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:41:9-43:58
+	android:label
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:41:19-57
+activity#com.example.administrator.loginandregister.activity.SignUpActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:46:9-48:51
+	android:screenOrientation
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:48:13-49
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:46:19-58
+activity#com.example.administrator.loginandregister.activity.WelcomActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:50:9-52:51
+	android:screenOrientation
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:52:13-49
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:50:19-58
+activity#com.example.administrator.loginandregister.activity.ForgetPasswordActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:54:9-56:47
+	android:screenOrientation
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:56:9-45
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:55:9-52
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:54:19-66
+activity#com.example.administrator.loginandregister.activity.UserActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:58:9-60:51
+	android:screenOrientation
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:58:19-56
+activity#com.mob.tools.MobUIShell
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:62:9-66:69
+	android:windowSoftInputMode
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:66:13-67
+	android:configChanges
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:65:13-74
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:64:13-72
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:63:13-52
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:68:9-79:20
+	android:launchMode
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:70:13-44
+	android:noHistory
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:69:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:72:13-78:29
+action#android.intent.action.VIEW
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:73:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:74:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:75:17-78
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:75:27-75
+data
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:77:17-56
+	android:scheme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:77:23-53
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:81:9-84:75
+	android:screenOrientation
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:83:13-49
+	android:theme
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:84:13-72
+	android:name
+		ADDED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml:82:13-69
+uses-sdk
+INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] D:\LoginAndRegister\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
+		INJECTED from D:\LoginAndRegister\app\src\main\AndroidManifest.xml
