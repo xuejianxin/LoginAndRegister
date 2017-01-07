@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId "com.example.administrator.loginandregister"
+        minSdkVersion 22
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/NOTICE' // will not include NOTICE file
+        exclude 'META-INF/LICENSE' // will not include LICENSE file
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:22.2.1'
+    compile 'com.android.support:design:22.2.1'
+    compile files('libs/SocialSDK_QQZone_1.jar')
+    compile files('libs/SocialSDK_QQZone_2.jar')
+    compile files('libs/SocialSDK_QQZone_3.jar')
+    compile files('libs/SocialSDK_Sina.jar')
+    compile files('libs/SocialSDK_WeiXin_1.jar')
+    compile files('libs/SocialSDK_WeiXin_2.jar')
+    compile files('libs/umeng_social_sdk.jar')
+    compile files('libs/commons-codec-1.9.jar')
+    compile files('libs/commons-logging-1.2.jar')
+    compile files('libs/httpasyncclient-4.1.2.jar')
+    compile files('libs/httpasyncclient-cache-4.1.2.jar')
+    compile files('libs/httpclient-4.5.2.jar')
+    compile files('libs/httpclient-cache-4.5.2.jar')
+    compile files('libs/httpcore-4.4.5.jar')
+    compile files('libs/httpcore-nio-4.4.5.jar')
+    compile files('libs/MobCommons-2016.1012.1447.jar')
+    compile files('libs/MobTools-2016.1012.1447.jar')
+    compile files('libs/SMSSDK-2.1.2.jar')
+    compile files('libs/gson-2.3.1.jar')
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta3'
+    compile 'org.glassfish:javax.annotation:10.0-b28'
+}
