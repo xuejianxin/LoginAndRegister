@@ -37,11 +37,11 @@ Xue Jianxin, a sophomore student, an Android developer. From the big semester to
 ## WeChat public number
 
 <center>
-    <p><img src="http://img.my.csdn.net/uploads/201611/13/1479034739_5678.jpg" align="center"></p>
+    <p><img src="http://img.my.csdn.net/uploads/201705/16/1494900209_2602.jpg-thumb.jpg" align="center"></p>
 </center>
 
-## Sweep the game
+## Sweep yards
 
 <center>
-    <p><img src="http://img.my.csdn.net/uploads/201611/13/1479023834_4613.jpg" align="center"></p>
+    <p><img src="http://img.my.csdn.net/uploads/201705/16/1494910795_5405.png-thumb.jpg" align="center"></p>
 </center>
